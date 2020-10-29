@@ -78,7 +78,7 @@
 
 			  aboutlink: "https://moviesonfile.blogspot.com/",
 
-			  image:'',
+			  image:'https://sites.google.com/site/sdoriginsim/images/<?=$_GET['id']?>.jpg',
 
 			  tracks:
 
